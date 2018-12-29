@@ -3,7 +3,8 @@ package my.company;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Hello");
+	Main main = new Main();
 	System.out.println("Hi");
+	System.out.println("Hello?");
     }
 }
